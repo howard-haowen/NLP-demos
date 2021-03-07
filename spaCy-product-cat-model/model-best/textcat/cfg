@@ -1,0 +1,11 @@
+{
+  "labels":[
+    "\u5e73\u677f",
+    "\u6c34\u679c",
+    "\u6d17\u9aee\u6c34",
+    "\u8863\u670d",
+    "\u9152\u5e97"
+  ],
+  "threshold":0.5,
+  "positive_label":null
+}
