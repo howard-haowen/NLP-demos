@@ -4,16 +4,10 @@ channels:
 dependencies:
   - python
   - numpy
-  - matplotlib
   - pandas
-  - bokeh
   - rise
   - nbpresent
   - spacy
   - pip:
     - jupyter-contrib-nbextensions
-    - dframcy
-    - scattertext
     - ipython
-    - faiss-cpu
-    - whatlies
