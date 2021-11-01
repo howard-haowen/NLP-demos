@@ -6,7 +6,6 @@ dependencies:
   - numpy
   - pandas
   - rise
-  - nbpresent
   - spacy
   - pip:
     - jupyter-contrib-nbextensions
