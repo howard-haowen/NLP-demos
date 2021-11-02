@@ -7,6 +7,3 @@ dependencies:
   - pandas
   - rise
   - spacy
-  - pip:
-    - jupyter-contrib-nbextensions
-    - jupyter_nbextensions_configurator
