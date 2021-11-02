@@ -9,4 +9,4 @@ dependencies:
   - spacy
   - pip:
     - jupyter-contrib-nbextensions
-    - ipython
+    - jupyter_nbextensions_configurator
