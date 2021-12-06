@@ -6,7 +6,6 @@ dependencies:
   - numpy
   - pandas
   - rise
-  - spacy
   - scikit-learn
   - pip:
     - traitlets
