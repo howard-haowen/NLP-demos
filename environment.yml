@@ -9,3 +9,4 @@ dependencies:
   - spacy
   - pip:
     - traitlets
+    - scikit-learn
