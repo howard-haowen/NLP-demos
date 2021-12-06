@@ -7,6 +7,6 @@ dependencies:
   - pandas
   - rise
   - spacy
+  - scikit-learn
   - pip:
     - traitlets
-    - scikit-learn
