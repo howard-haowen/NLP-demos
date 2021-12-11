@@ -102,3 +102,9 @@ ENV/
 
 # vscode
 .vscode
+
+# images
+*.png
+
+# datasets
+*.csv
