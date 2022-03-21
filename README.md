@@ -1,8 +1,9 @@
-- View the whole repo with JupyterLab on Binder
+# The repo
+
+View the whole repo with JupyterLab on Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/howard-haowen/NLP-demos/HEAD)
 
-
-# Talks
+# NLP talks
 
 | School | Title | Date | Binder | Colab | NB Viewer | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
