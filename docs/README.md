@@ -6,7 +6,7 @@
 - Notebook links
   - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/howard-haowen/NLP-demos/main?filepath=NTNU_talk.ipynb)
   - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NTNU_talk.ipynb) 
-  - [![NB Viewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.org/github/howard-haowen/NLP-demos/blob/main/NTNU_talk.ipynb)    
+  - [![NB Viewer](https://img.shields.io/badge/NBViewer-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://nbviewer.org/github/howard-haowen/NLP-demos/blob/main/NTNU_talk.ipynb)    
 
 ## CJCU
 - Title: Trends in NLP
@@ -14,7 +14,7 @@
 - Notebook links
   - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/howard-haowen/NLP-demos/main?filepath=CJCU_talk.ipynb)
   - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/CJCU_talk.ipynb) 
-  - [![NB Viewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.org/github/howard-haowen/NLP-demos/blob/main/CJCU_talk.ipynb)   
+  - [![NB Viewer](https://img.shields.io/badge/NBViewer-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://nbviewer.org/github/howard-haowen/NLP-demos/blob/main/CJCU_talk.ipynb)   
 
 ## NQU
 - Title: AI and NLP
@@ -22,6 +22,6 @@
 - Notebook links
   - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/howard-haowen/NLP-demos/main?filepath=NQU_talk.ipynb)
   - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NQU_talk.ipynb) 
-  - [![NB Viewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.org/github/howard-haowen/NLP-demos/blob/main/NQU_talk.ipynb)  
+  - [![NB Viewer](https://img.shields.io/badge/NBViewer-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://nbviewer.org/github/howard-haowen/NLP-demos/blob/main/NQU_talk.ipynb)  
   
 
