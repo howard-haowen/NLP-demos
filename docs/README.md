@@ -1,4 +1,4 @@
-# Talks 
+# NLP talks 
 
 ## NTNU
 - Title: NLP applications in business
