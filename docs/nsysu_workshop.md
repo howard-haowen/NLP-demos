@@ -4,6 +4,12 @@
 - [NLP Town notebooks](https://github.com/nlptown/nlp-notebooks)
 - [TensorFlow tuorials](https://www.tensorflow.org/tutorials)
 
+## 相關書籍
+<div>
+<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630086235l/58870327._SX318_.jpg" width:50%>
+<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628096299l/55711023._SX318_.jpg" width:50%>
+</div>
+
 ## 工具
 - [sklearn](https://scikit-learn.org/stable/)
 - [gensim](https://radimrehurek.com/gensim/)
