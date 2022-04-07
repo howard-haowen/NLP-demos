@@ -20,7 +20,7 @@
   - 原始檔
     - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nlptown/nlp-notebooks/blob/master/NLP%20with%20pretrained%20models%20-%20spaCy%20and%20StanfordNLP.ipynb)
   - 修訂檔
-    - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/use-pretrained-models.ipynb)
+    - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W01-use-pretrained-models.ipynb)
 
 ## 第二週
 - 取得資料集
