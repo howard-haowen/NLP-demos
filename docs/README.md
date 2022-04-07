@@ -1,5 +1,7 @@
 # NLP talks 
 
+## [NSYSU workshop](https://howard-haowen.rohan.tw/NLP-demos/nsysu_workshop)
+
 ## NTNU
 - Title: NLP applications in business
 - Date: 2022-03-21
