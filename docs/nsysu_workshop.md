@@ -19,7 +19,7 @@
 ## 第一週
 - NLP相關應用
 - 熟悉Colab環境
-- 調用預訓練模型
+- 使用spaCy調用預訓練模型
 - Notebooks
   - 原始檔
     - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nlptown/nlp-notebooks/blob/master/NLP%20with%20pretrained%20models%20-%20spaCy%20and%20StanfordNLP.ipynb)
@@ -29,7 +29,7 @@
 ## 第二週
 - 取得資料集
 - 資料預處理
-- 訓練主題模型
+- 使用gensim訓練主題模型
   - [Bag of Words(BOW)](https://en.wikipedia.org/wiki/Bag-of-words_model)
   - [N-gram](https://en.wikipedia.org/wiki/N-gram)
   - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
