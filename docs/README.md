@@ -1,4 +1,4 @@
-# NLP talks 
+# Natural Language Processing Notebooks 
 
 ## [NSYSU workshop](https://howard-haowen.rohan.tw/NLP-demos/nsysu_workshop)
 
