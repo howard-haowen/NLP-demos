@@ -19,34 +19,32 @@
 ## 第一週
 - NLP相關應用
 - 熟悉Colab環境
-- 使用spaCy調用預訓練模型
-- Notebooks
-  - 原始檔
-    - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nlptown/nlp-notebooks/blob/master/NLP%20with%20pretrained%20models%20-%20spaCy%20and%20StanfordNLP.ipynb)
-  - 修訂檔
-    - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W01-use-pretrained-models.ipynb)
+- 調用預訓練模型
+- Notebook
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W01-use-pretrained-models.ipynb)
 
 ## 第二週
 - 取得資料集
 - 資料預處理
-- 使用gensim訓練主題模型
+- 訓練主題模型
   - [Bag of Words(BOW)](https://en.wikipedia.org/wiki/Bag-of-words_model)
   - [N-gram](https://en.wikipedia.org/wiki/N-gram)
   - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 
 ## 第三週
-- 文本向量化
+- 文本向量化1
   - Symbolic representation  
     - [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
   - Distributional representation 
     - [Word2vec](https://en.wikipedia.org/wiki/Word2vec)  
     - [fastText](https://en.wikipedia.org/wiki/FastText)
-  - Distributed representation 
-    - Universal Sentence Encoder  
-    - BERT
 
 ## 第四週
-  - 文本相似性
+- 文本向量化2
+  - Distributed representation 
+    - [Universal Sentence Encoder](https://www.tensorflow.org/hub/tutorials/semantic_similarity_with_tf_hub_universal_encoder)  
+    - [BERT](https://en.wikipedia.org/wiki/BERT_(language_model))
+- 文本相似性
 
 ## 第五週
   - 文本分類
@@ -55,7 +53,7 @@
   - 命名實體
   
 ## 第七週
-  - 跨語言詞向量
+  - 跨語言向量化
   - 遷移學習
   
 ## 第八週
