@@ -16,14 +16,14 @@
 - [StandfordNLP](https://nlp.stanford.edu/software/)
 - [fastai](https://docs.fast.ai/)
 
-## 第一週
+## 第1️⃣週
 - NLP相關應用
 - 熟悉Colab環境
 - 調用預訓練模型
 - Notebook
   - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W01-use-pretrained-models.ipynb)
 
-## 第二週
+## 第2️⃣週
 - 取得資料集
 - 資料預處理
 - 訓練主題模型
@@ -31,7 +31,7 @@
   - [N-gram](https://en.wikipedia.org/wiki/N-gram)
   - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 
-## 第三週
+## 第3️⃣週
 - 文本向量化1
   - Symbolic representation  
     - [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
@@ -39,22 +39,27 @@
     - [Word2vec](https://en.wikipedia.org/wiki/Word2vec)  
     - [fastText](https://en.wikipedia.org/wiki/FastText)
 
-## 第四週
+## 第4️⃣週
 - 文本向量化2
   - Distributed representation 
     - [Universal Sentence Encoder](https://www.tensorflow.org/hub/tutorials/semantic_similarity_with_tf_hub_universal_encoder)  
     - [BERT](https://en.wikipedia.org/wiki/BERT_(language_model))
 - 文本相似性
 
-## 第五週
-  - 文本分類
+## 第5️⃣週
+- 文本分類
   
-## 第六週
-  - 命名實體
+## 第6️⃣週
+- 命名實體
   
-## 第七週
-  - 跨語言向量化
-  - 遷移學習
+## 第7️⃣週
+- 遷移學習
   
-## 第八週
-  - spaCy project
+## 第8️⃣週
+- 跨語言詞向量
+
+## 第9️⃣週
+- 機器翻譯
+
+## 第🔟週
+- spaCy project
