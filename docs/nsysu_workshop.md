@@ -9,13 +9,12 @@
 - ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628096299l/55711023._SX318_.jpg)
 
 ## 工具
-- [sklearn](https://scikit-learn.org/stable/)
-- [gensim](https://radimrehurek.com/gensim/)
 - [nltk](https://www.nltk.org/)
 - [spaCy](https://spacy.io/)
   - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/howard-haowen/NLP-demos/main?filepath=spacy-playground.ipynb)
-- [StandfordNLP](https://nlp.stanford.edu/software/)
-- [fastai](https://docs.fast.ai/)
+- [stanza](https://stanfordnlp.github.io/stanza/)
+- [gensim](https://radimrehurek.com/gensim/)
+- [sklearn](https://scikit-learn.org/stable/)
 
 ## 第1️⃣週
 - NLP相關應用
