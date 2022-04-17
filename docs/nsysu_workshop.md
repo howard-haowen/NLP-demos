@@ -13,6 +13,7 @@
 - [gensim](https://radimrehurek.com/gensim/)
 - [nltk](https://www.nltk.org/)
 - [spaCy](https://spacy.io/)
+  - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/howard-haowen/NLP-demos/main?filepath=spacy-playground.ipynb)
 - [StandfordNLP](https://nlp.stanford.edu/software/)
 - [fastai](https://docs.fast.ai/)
 
@@ -37,12 +38,10 @@
     - [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
   - Distributional representation 
     - [Word2vec](https://en.wikipedia.org/wiki/Word2vec)  
-    - [fastText](https://en.wikipedia.org/wiki/FastText)
 
 ## 第4️⃣週
 - 文本向量化2
   - Distributed representation 
-    - [Universal Sentence Encoder](https://www.tensorflow.org/hub/tutorials/semantic_similarity_with_tf_hub_universal_encoder)  
     - [BERT](https://en.wikipedia.org/wiki/BERT_(language_model))
 - 文本相似性
 
@@ -57,9 +56,3 @@
   
 ## 第8️⃣週
 - 跨語言詞向量
-
-## 第9️⃣週
-- 機器翻譯
-
-## 第🔟週
-- spaCy project
