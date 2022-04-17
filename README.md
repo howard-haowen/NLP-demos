@@ -1,7 +1,7 @@
 # The repo
 
 View the whole repo with JupyterLab on Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/howard-haowen/NLP-demos/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/howard-haowen/rise-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fhoward-haowen%252FNLP-demos%26urlpath%3Dlab%252Ftree%252FNLP-demos%252F%26branch%3Dmain)
 
 # Playground 
 - spaCy
