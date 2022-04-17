@@ -3,6 +3,12 @@
 View the whole repo with JupyterLab on Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/howard-haowen/NLP-demos/HEAD)
 
+# Playground 
+- spaCy
+  - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/howard-haowen/NLP-demos/main?filepath=spacy-playground.ipynb)
+- gensim
+- stanza
+
 # NLP talks
 
 | School | Title | Date | Binder | Colab | NB Viewer | 
