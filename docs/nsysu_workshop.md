@@ -30,7 +30,9 @@
   - [Bag of Words(BOW)](https://en.wikipedia.org/wiki/Bag-of-words_model)
   - [N-gram](https://en.wikipedia.org/wiki/N-gram)
   - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
-
+- Notebook
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W02-topic-modelling.ipynb)
+  
 ## 第3️⃣週
 - 文本向量化1
   - Symbolic representation  
