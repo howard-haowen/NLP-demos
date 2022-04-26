@@ -1,4 +1,4 @@
-# 中山大學NLP Workshop大綱
+# 國立中山大學NLP Workshop大綱
 
 ## 參考資料
 - [spaCy notebooks](https://github.com/explosion/spacy-notebooks)
@@ -6,6 +6,7 @@
 
 ## 相關書籍
 - ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630086235l/58870327._SX318_.jpg)
+- ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591328063l/53832790._SX318_.jpg)
 
 ## 工具
 - [nltk](https://www.nltk.org/)
@@ -19,6 +20,10 @@
 - NLP相關應用
 - 熟悉Colab環境
 - 調用預訓練模型
+  - [Tokenization](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization)
+  - [Parts of speech](https://en.wikipedia.org/wiki/Part_of_speech)
+  - [Named entity recognition](https://en.wikipedia.org/wiki/Named-entity_recognition)
+  - [Dependency parsing](https://en.wikipedia.org/wiki/Syntactic_parsing_(computational_linguistics)#Dependency_parsing)
 - Notebook
   - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W01-use-pretrained-models.ipynb)
 
@@ -29,6 +34,7 @@
   - [Bag of Words(BOW)](https://en.wikipedia.org/wiki/Bag-of-words_model)
   - [N-gram](https://en.wikipedia.org/wiki/N-gram)
   - [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
+  - [HDP](https://en.wikipedia.org/wiki/Hierarchical_Dirichlet_process)
 - Notebook
   - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W02-topic-modelling.ipynb)
   
@@ -38,6 +44,7 @@
     - [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
   - Distributional representation 
     - [Word2vec](https://en.wikipedia.org/wiki/Word2vec)  
+- [文本聚類](https://en.wikipedia.org/wiki/Document_clustering)
 
 ## 第4️⃣週
 - 文本向量化2
@@ -46,7 +53,7 @@
 - 文本相似性
 
 ## 第5️⃣週
-- 文本分類
+- [文本分類](https://en.wikipedia.org/wiki/Document_classification)
   
 ## 第6️⃣週
 - 命名實體
