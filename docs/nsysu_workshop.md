@@ -47,6 +47,9 @@
     - [fastText](https://en.wikipedia.org/wiki/FastText) by Facebook
     - [GloVe](https://en.wikipedia.org/wiki/GloVe) (Global Vectors) by the Stanford NLP team
 - [文本聚類](https://en.wikipedia.org/wiki/Document_clustering)
+  - [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) 
+- Notebook
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W03-document-vectorization-and-clustering.ipynb)
 
 ## 第4️⃣週
 - 文本向量化2
