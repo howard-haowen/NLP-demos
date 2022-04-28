@@ -40,15 +40,17 @@
   
 ## 第3️⃣週
 - 文本向量化1
-  - Symbolic representation  
+  - Frequency-based representation 
     - [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
-  - Distributional representation 
-    - [Word2vec](https://en.wikipedia.org/wiki/Word2vec)  
+  - Word embeddings 
+    - [Word2vec](https://en.wikipedia.org/wiki/Word2vec) by Google
+    - [fastText](https://en.wikipedia.org/wiki/FastText) by Facebook
+    - [GloVe](https://en.wikipedia.org/wiki/GloVe) (Global Vectors) by the Stanford NLP team
 - [文本聚類](https://en.wikipedia.org/wiki/Document_clustering)
 
 ## 第4️⃣週
 - 文本向量化2
-  - Distributed representation 
+  - Dynamic embeddings 
     - [BERT](https://en.wikipedia.org/wiki/BERT_(language_model))
 - 文本相似性
 
