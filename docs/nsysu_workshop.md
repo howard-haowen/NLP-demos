@@ -1,4 +1,5 @@
 # 國立中山大學NLP Workshop大綱
+- 講師: [Haowen Jiang](https://howard-haowen.rohan.tw/)
 
 ## 參考資料
 - [spaCy notebooks](https://github.com/explosion/spacy-notebooks)
@@ -15,6 +16,9 @@
 - [stanza](https://stanfordnlp.github.io/stanza/)
 - [gensim](https://radimrehurek.com/gensim/)
 - [sklearn](https://scikit-learn.org/stable/)
+
+## 資料集
+- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/nlp_datasets.ipynb)
 
 ## 第1️⃣週
 - NLP相關應用
@@ -42,6 +46,13 @@
 - 文本向量化1
   - Frequency-based representation 
     - [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+- [文本聚類](https://en.wikipedia.org/wiki/Document_clustering)
+  - [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) 
+- Notebook
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W03-document-vectorization-and-clustering.ipynb)
+
+## 第4️⃣週
+- 文本向量化2
   - Word embeddings 
     - [Word2vec](https://en.wikipedia.org/wiki/Word2vec) by Google
     - [fastText](https://en.wikipedia.org/wiki/FastText) by Facebook
@@ -51,20 +62,18 @@
 - Notebook
   - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W03-document-vectorization-and-clustering.ipynb)
 
-## 第4️⃣週
-- 文本向量化2
+## 第5️⃣週
+- 文本向量化3
   - Dynamic embeddings 
     - [BERT](https://en.wikipedia.org/wiki/BERT_(language_model))
 - 文本相似性
 
-## 第5️⃣週
-- [文本分類](https://en.wikipedia.org/wiki/Document_classification)
-  
 ## 第6️⃣週
-- 命名實體
-  
+- [文本分類](https://en.wikipedia.org/wiki/Document_classification)
+
 ## 第7️⃣週
-- 遷移學習
+- [命名實體](https://en.wikipedia.org/wiki/Named-entity_recognition)
   
 ## 第8️⃣週
+- 遷移學習
 - 跨語言詞向量
