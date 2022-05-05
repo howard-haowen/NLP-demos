@@ -60,7 +60,7 @@
 - [文本聚類](https://en.wikipedia.org/wiki/Document_clustering)
   - [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) 
 - Notebook
-  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W03-document-vectorization-and-clustering.ipynb)
+  - 沿用第3️⃣週的Notebook
 
 ## 第5️⃣週
 - 文本向量化3
