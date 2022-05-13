@@ -53,7 +53,7 @@
 
 ## 第4️⃣週
 - 文本向量化2
-  - Word embeddings 
+  - Static word embeddings 
     - [Word2vec](https://en.wikipedia.org/wiki/Word2vec) by Google
     - [fastText](https://en.wikipedia.org/wiki/FastText) by Facebook
     - [GloVe](https://en.wikipedia.org/wiki/GloVe) (Global Vectors) by the Stanford NLP team
@@ -65,9 +65,12 @@
 ## 第5️⃣週
 - 文本向量化3
   - Dynamic embeddings 
-    - [BERT](https://en.wikipedia.org/wiki/BERT_(language_model))
-- 文本相似性
-
+    - [USE](https://tfhub.dev/google/universal-sentence-encoder/4) (Universal Sentence Encoder)
+    - [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) (Bidirectional Encoder Representations from Transformers)
+- [文本相似性](https://en.wikipedia.org/wiki/Semantic_similarity#In_natural_language_processing)
+- Notebook
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W05-transformer-and-document-similarity.ipynb)
+  
 ## 第6️⃣週
 - [文本分類](https://en.wikipedia.org/wiki/Document_classification)
 
