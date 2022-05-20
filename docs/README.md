@@ -23,7 +23,7 @@
 ## CJCU talk
 - Title: Trends in NLP
 - Date: 2021-12-06
-- [Talk poster](https://github.com/howard-haowen/NLP-demos/raw/main/img/cjcu_2021.jpg)
+- [Talk poster](https://raw.githubusercontent.com/howard-haowen/NLP-demos/main/img/cjcu_2021.jpg)
 - Notebook links
   - [![NB Viewer](https://img.shields.io/badge/NBViewer-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://nbviewer.org/github/howard-haowen/NLP-demos/blob/main/CJCU_talk.ipynb)  
   - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/CJCU_talk.ipynb) 
