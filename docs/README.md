@@ -1,5 +1,13 @@
 # Natural Language Processing Notebooks 
 
+## NQU 2nd talk
+- Title: Language learning (and teaching) aided by AI models
+- Date: 2021-05-20
+- Notebook links
+  - [![NB Viewer](https://img.shields.io/badge/NBViewer-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://nbviewer.org/github/howard-haowen/NLP-demos/blob/main/NQU_model_aided_lang_learning.ipynb)  
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NQU_model_aided_lang_learning.ipynb) 
+  - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/howard-haowen/rise-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fhoward-haowen%252FNLP-demos%26urlpath%3Dtree%252FNLP-demos%252FNQU_talk.ipynbNQU_model_aided_lang_learning%26branch%3Dmain)
+
 ## [NSYSU workshop](https://howard-haowen.rohan.tw/NLP-demos/nsysu_workshop)
 
 ## NTNU talk
