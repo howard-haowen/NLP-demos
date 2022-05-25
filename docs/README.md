@@ -1,7 +1,7 @@
 # Natural Language Processing Notebooks 
 
 ## NQU 2nd talk
-<img width="150" height="300" src="https://raw.githubusercontent.com/howard-haowen/NLP-demos/main/img/nqu_2022.JPG">
+<img width="50%" height="50%" src="https://raw.githubusercontent.com/howard-haowen/NLP-demos/main/img/nqu_2022.JPG">
 - Title: Language learning (and teaching) aided by AI models
 - Date: 2021-05-20
 - Notebook links
