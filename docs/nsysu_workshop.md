@@ -72,11 +72,16 @@
   - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W05-transformer-and-document-similarity.ipynb)
   
 ## 第6️⃣週
-- [文本分類](https://en.wikipedia.org/wiki/Document_classification)
+- [文本分類](https://en.wikipedia.org/wiki/Document_classification): 傳統機器學習
+- 分類算法
+  - [Naive Bayes classifiers](https://www.geeksforgeeks.org/naive-bayes-classifiers/?ref=leftbar-rightbar)
+  - [Support Vector Machines](https://www.geeksforgeeks.org/support-vector-machine-algorithm/?ref=gcse)
+  - [Logistic Regression](https://www.geeksforgeeks.org/understanding-logistic-regression/?ref=gcse)
+- Notebook
+  - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W06-text-classification-with-scikit-learn.ipynb)
 
 ## 第7️⃣週
-- [命名實體](https://en.wikipedia.org/wiki/Named-entity_recognition)
-  
+- [文本分類](https://en.wikipedia.org/wiki/Document_classification): 神經網絡
+
 ## 第8️⃣週
-- 遷移學習
-- 跨語言詞向量
+- [命名實體](https://en.wikipedia.org/wiki/Named-entity_recognition)
