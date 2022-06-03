@@ -82,6 +82,13 @@
 
 ## 第7️⃣週
 - [文本分類](https://en.wikipedia.org/wiki/Document_classification): 神經網絡
+- 評估指標
+  - Accuracy
+  - Recall
+  - Precision
+  - F1
+  - [ROC](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+- Notebook [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W07-text-classification-with-spacy.ipynb)
 
 ## 第8️⃣週
 - [命名實體](https://en.wikipedia.org/wiki/Named-entity_recognition)
