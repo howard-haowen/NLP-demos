@@ -1,5 +1,6 @@
 # 國立中山大學NLP Workshop大綱
 - 講師: [Haowen Jiang](https://howard-haowen.rohan.tw/)
+- 大綱內容的[簡報模式](https://hackmd.io/@howard-haowen/nsysu-workshop#/)
 
 ## 參考資料
 - [spaCy notebooks](https://github.com/explosion/spacy-notebooks)
