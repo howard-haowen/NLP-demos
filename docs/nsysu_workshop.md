@@ -1,5 +1,6 @@
 # 國立中山大學NLP Workshop大綱
-- 講師: [Haowen Jiang](https://howard-haowen.rohan.tw/)
+- 講師: 江豪文[Haowen Jiang](https://howard-haowen.rohan.tw/)
+- 時間: 2022-04-15 ~ 2022-06-10
 - 大綱內容的[簡報模式](https://hackmd.io/@howard-haowen/nsysu-workshop#/)
 
 ## 參考資料
@@ -93,3 +94,4 @@
 
 ## 第8️⃣週
 - [命名實體](https://en.wikipedia.org/wiki/Named-entity_recognition)
+- Notebook [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NSYSU/W08-extracting-named-entities-with-spacy.ipynb)
