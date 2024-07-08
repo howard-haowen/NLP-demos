@@ -8,7 +8,7 @@
   - [![NB Viewer](https://img.shields.io/badge/NBViewer-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://nbviewer.org/github/howard-haowen/NLP-demos/blob/main/NQU_model_aided_lang_learning.ipynb)  
   - [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/howard-haowen/NLP-demos/blob/main/NQU_model_aided_lang_learning.ipynb) 
 
-## [NSYSU workshop](https://howard-haowen.rohan.tw/NLP-demos/nsysu_workshop)
+## [NSYSU workshop](https://howard-haowen.github.io/NLP-demos/nsysu_workshop)
 
 ## NTNU talk
 <img width="50%" height="50%" src="https://raw.githubusercontent.com/howard-haowen/NLP-demos/main/img/ntnu_2022.JPG">
